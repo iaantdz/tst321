@@ -1,0 +1,4 @@
+# Created by cloud-init v. 20.4.1-0ubuntu1~20.04.1 on Fri, 14 May 2021 05:57:52 +0000
+
+# User rules for usver
+usver ALL=(ALL) NOPASSWD:ALL
